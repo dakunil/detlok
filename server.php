@@ -1,5 +1,5 @@
 <?php
-
+d4k03n1l
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
